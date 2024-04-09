@@ -2,6 +2,45 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://sspa.me/it/posts/ciao-mondo/</loc>
+    <lastmod>2024-04-06T14:13:01+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://sspa.me/posts/ciao-mondo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://sspa.me/it/posts/ciao-mondo/"
+                />
+  </url><url>
+    <loc>https://sspa.me/it/posts/</loc>
+    <lastmod>2024-04-06T14:13:01+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://sspa.me/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://sspa.me/it/posts/"
+                />
+  </url><url>
+    <loc>https://sspa.me/it/</loc>
+    <lastmod>2024-04-06T14:13:01+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://sspa.me/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://sspa.me/it/"
+                />
+  </url><url>
     <loc>https://sspa.me/it/archives/</loc>
     <xhtml:link
                 rel="alternate"
@@ -31,17 +70,5 @@
     <loc>https://sspa.me/it/itseries/</loc>
   </url><url>
     <loc>https://sspa.me/it/ittags/</loc>
-  </url><url>
-    <loc>https://sspa.me/it/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://sspa.me/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://sspa.me/it/"
-                />
   </url>
 </urlset>

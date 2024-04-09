@@ -11,6 +11,14 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
+    <lastBuildDate>Sat, 06 Apr 2024 14:13:01 +0201</lastBuildDate>
     <atom:link href="https://sspa.me/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>about</title>
+      <link>https://sspa.me/tags/about/</link>
+      <pubDate>Sat, 06 Apr 2024 14:13:01 +0201</pubDate>
+      <guid>https://sspa.me/tags/about/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
