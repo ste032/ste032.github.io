@@ -2,6 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://sspa.me/tags/about/</loc>
+    <lastmod>2024-04-06T14:13:01+02:01</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://sspa.me/it/tags/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://sspa.me/tags/about/"
+                />
+  </url><url>
     <loc>https://sspa.me/posts/ciao-mondo/</loc>
     <lastmod>2024-04-06T14:13:01+02:01</lastmod>
     <xhtml:link
@@ -14,9 +27,6 @@
                 hreflang="en"
                 href="https://sspa.me/posts/ciao-mondo/"
                 />
-  </url><url>
-    <loc>https://sspa.me/tags/about/</loc>
-    <lastmod>2024-04-06T14:13:01+02:01</lastmod>
   </url><url>
     <loc>https://sspa.me/posts/</loc>
     <lastmod>2024-04-06T14:13:01+02:01</lastmod>
@@ -46,8 +56,16 @@
   </url><url>
     <loc>https://sspa.me/tags/</loc>
     <lastmod>2024-04-06T14:13:01+02:01</lastmod>
-  </url><url>
-    <loc>https://sspa.me/archive/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://sspa.me/it/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://sspa.me/tags/"
+                />
   </url><url>
     <loc>https://sspa.me/archives/</loc>
     <xhtml:link
@@ -62,6 +80,16 @@
                 />
   </url><url>
     <loc>https://sspa.me/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://sspa.me/it/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://sspa.me/categories/"
+                />
   </url><url>
     <loc>https://sspa.me/search/</loc>
     <xhtml:link
@@ -76,5 +104,15 @@
                 />
   </url><url>
     <loc>https://sspa.me/series/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://sspa.me/it/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://sspa.me/series/"
+                />
   </url>
 </urlset>

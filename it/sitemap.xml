@@ -2,21 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://sspa.me/it/posts/ciao-mondo/</loc>
-    <lastmod>2024-04-06T14:13:01+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://sspa.me/posts/ciao-mondo/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://sspa.me/it/posts/ciao-mondo/"
-                />
+    <loc>https://sspa.me/it/tags/github/</loc>
+    <lastmod>2024-04-11T20:48:34+02:00</lastmod>
+  </url><url>
+    <loc>https://sspa.me/it/tags/github-pages/</loc>
+    <lastmod>2024-04-11T20:48:34+02:00</lastmod>
+  </url><url>
+    <loc>https://sspa.me/it/tags/hugo/</loc>
+    <lastmod>2024-04-11T20:48:34+02:00</lastmod>
+  </url><url>
+    <loc>https://sspa.me/it/series/hugo-e-gh-pages/</loc>
+    <lastmod>2024-04-11T20:48:34+02:00</lastmod>
+  </url><url>
+    <loc>https://sspa.me/it/posts/hugo-gh-pages-part-1/</loc>
+    <lastmod>2024-04-11T20:48:34+02:00</lastmod>
+  </url><url>
+    <loc>https://sspa.me/it/tags/porkbun/</loc>
+    <lastmod>2024-04-11T20:48:34+02:00</lastmod>
   </url><url>
     <loc>https://sspa.me/it/posts/</loc>
-    <lastmod>2024-04-06T14:13:01+02:00</lastmod>
+    <lastmod>2024-04-11T20:48:34+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -28,8 +33,24 @@
                 href="https://sspa.me/it/posts/"
                 />
   </url><url>
+    <loc>https://sspa.me/it/series/</loc>
+    <lastmod>2024-04-11T20:48:34+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://sspa.me/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://sspa.me/it/series/"
+                />
+  </url><url>
+    <loc>https://sspa.me/it/tags/ssg/</loc>
+    <lastmod>2024-04-11T20:48:34+02:00</lastmod>
+  </url><url>
     <loc>https://sspa.me/it/</loc>
-    <lastmod>2024-04-06T14:13:01+02:00</lastmod>
+    <lastmod>2024-04-11T20:48:34+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -39,6 +60,48 @@
                 rel="alternate"
                 hreflang="it"
                 href="https://sspa.me/it/"
+                />
+  </url><url>
+    <loc>https://sspa.me/it/tags/</loc>
+    <lastmod>2024-04-11T20:48:34+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://sspa.me/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://sspa.me/it/tags/"
+                />
+  </url><url>
+    <loc>https://sspa.me/it/tags/tutorial/</loc>
+    <lastmod>2024-04-11T20:48:34+02:00</lastmod>
+  </url><url>
+    <loc>https://sspa.me/it/tags/about/</loc>
+    <lastmod>2024-04-06T14:13:01+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://sspa.me/tags/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://sspa.me/it/tags/about/"
+                />
+  </url><url>
+    <loc>https://sspa.me/it/posts/ciao-mondo/</loc>
+    <lastmod>2024-04-06T14:13:01+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://sspa.me/posts/ciao-mondo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://sspa.me/it/posts/ciao-mondo/"
                 />
   </url><url>
     <loc>https://sspa.me/it/archives/</loc>
@@ -53,6 +116,18 @@
                 href="https://sspa.me/it/archives/"
                 />
   </url><url>
+    <loc>https://sspa.me/it/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://sspa.me/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://sspa.me/it/categories/"
+                />
+  </url><url>
     <loc>https://sspa.me/it/search/</loc>
     <xhtml:link
                 rel="alternate"
@@ -65,10 +140,6 @@
                 href="https://sspa.me/it/search/"
                 />
   </url><url>
-    <loc>https://sspa.me/it/itcategories/</loc>
-  </url><url>
-    <loc>https://sspa.me/it/itseries/</loc>
-  </url><url>
-    <loc>https://sspa.me/it/ittags/</loc>
+    <loc>https://sspa.me/it/tags/ci/cd/</loc>
   </url>
 </urlset>
